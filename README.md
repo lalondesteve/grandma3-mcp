@@ -1,1 +1,1 @@
-# grandma3-repository
+# grandma3-mcp
